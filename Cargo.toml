@@ -1,0 +1,13 @@
+[package]
+name = "plakat"
+version = "0.1.0"
+authors = ["Justin Humm <justin.humm@posteo.de>"]
+edition = "2018"
+
+[dependencies]
+pcarp = "*"
+svg = "*"
+png = "*"
+serde = "*"
+serde_derive = "*"
+xml-rs = "*"
