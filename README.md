@@ -4,7 +4,7 @@ Ein Poster, dass den Datenfluss eines einzelnen Likes darstellt.
 
 ![](preview.jpeg)
 
-Die Dateien `plakat_mit_text_final.pdf` und `plakat_ohne_text_final.pdf` (Text als Pfade) bilden die fertige Abgabe.
+In hoher Auflösung kann das Plakat in der Datei `plakat_final.pdf` betrachtet werden.
 
 
 ## Building
